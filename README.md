@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maneesha Munasinghe</h1>
+<h3 align="center">A passionate Software developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinee10&label=Profile%20views&color=0e75b6&style=flat" alt="dinee10" /> </p>
+
 - 🌱 I’m currently learning **Python**
+
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **dineemunasinghe10@gmail.com**
 
