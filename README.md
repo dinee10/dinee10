@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java**
+
 
 - 📫 How to reach me **dineemunasinghe10@gmail.com**
 
