@@ -49,14 +49,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dinee10&show_icons=true&theme=default&count_private=true" alt="dinee10 stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinee10&show_icons=true&locale=en&layout=compact&theme=default" alt="dinee10 top languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinee10&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinee10&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinee10&theme=default" alt="dinee10 streak" />
+  <img src="https://streak-stats.demolab.com/?user=dinee10&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me
