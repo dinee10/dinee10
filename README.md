@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dinee10&label=Profile%20views&color=0e75b6&style=flat" alt="dinee10" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" alt="status" />
 </p>
 
 ---
